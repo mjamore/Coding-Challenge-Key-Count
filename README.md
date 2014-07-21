@@ -18,21 +18,19 @@ The default value should result in the output: 'The total for John is 6. The tot
 
 
 
-should match:
+Example Input:
+
 	bill,45
 	alf, 31
 	anthony,   54
-
-
-spaceship, 45
-train, 500
-car,      400
-trash,234    
-butter,   45354   
-van,     9898  
-street,  5 
-train,   500 
-car,     400
-
-
-- How many digits should it support in the count column?
+	alf, 75
+	spaceship, 98
+	spaceship, 45
+	train, 500
+	car,      400
+	trash,234    
+	butter,   45354   
+	van,     9898  
+	street,  5 
+	train,   500 
+	car,     400
